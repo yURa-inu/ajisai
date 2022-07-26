@@ -39,9 +39,35 @@ ul {
 
 main {
   height: 2000px;
+  width: 100%;
+  background-color: #343430;
+}
+
+.main-block {
+  padding: 10px;
+  height: 2000px;
   width: 80%;
   margin: 0 auto;
-  background-color: blue;
+  background-color: #111110;
+}
+
+.tennai {
+  display: flex;
+}
+
+.tennai img {
+  height: 500px;
+}
+
+.shop-text {
+  margin-left: 10px;
+  width: 100%;
+  background-color: #424242;
+  font-size: 20px;
+}
+
+.shop-text p {
+  color: white;
 }
 
 footer {
