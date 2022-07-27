@@ -6,7 +6,7 @@
 header {
   height: 350px;
   width: 100%;
-  background-color: wheat;
+  background-color: #8e8e64;
 }
 
 .main-visual img {
@@ -40,7 +40,7 @@ ul {
 main {
   height: 2000px;
   width: 100%;
-  background-color: #343430;
+  background-color: #111110;
 }
 
 .main-block {
